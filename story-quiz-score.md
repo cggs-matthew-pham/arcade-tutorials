@@ -365,8 +365,3 @@ Run the game and check:
   
   
 
-```package
-
-arcade-story=github:microsoft/arcade-storytelling
-
-```

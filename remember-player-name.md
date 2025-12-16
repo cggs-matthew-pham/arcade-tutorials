@@ -318,11 +318,3 @@ Test the game to make sure it still works.
   
 
   
-
-```package
-
-settings-blocks=github:microsoft/pxt-settings-blocks
-
-arcade-story=github:microsoft/arcade-storytelling
-
-```
