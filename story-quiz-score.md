@@ -367,8 +367,6 @@ Run the game and check:
 
 ```package
 
-blockSettings=github:microsoft/pxt-settings-blocks
-
-story=github:microsoft/arcade-storytelling
+arcade-story=github:microsoft/arcade-storytelling
 
 ```

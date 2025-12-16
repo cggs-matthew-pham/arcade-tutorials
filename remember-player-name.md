@@ -321,8 +321,8 @@ Test the game to make sure it still works.
 
 ```package
 
-blockSettings=github:microsoft/pxt-settings-blocks
+settings-blocks=github:microsoft/pxt-settings-blocks
 
-story=github:microsoft/arcade-storytelling
+arcade-story=github:microsoft/arcade-storytelling
 
 ```
